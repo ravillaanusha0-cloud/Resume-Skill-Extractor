@@ -13,3 +13,6 @@ and basic text processing techniques.
 - NLTK
 
 ## Run
+##output
+[resume extractor output](screenshots/output.png)
+
