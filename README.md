@@ -14,5 +14,5 @@ and basic text processing techniques.
 
 ## Run
 ##output
-[resume extractor output](screenshots/output.png)
+[resume skill extractor output](screenshots/output.png)
 
